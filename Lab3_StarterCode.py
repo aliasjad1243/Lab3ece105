@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-Ali Asjad Syed
+Ali Asjad Syed.
 aas459
 14706820
 
