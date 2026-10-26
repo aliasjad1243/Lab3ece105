@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 """
 Ali Asjad Syed
 aas459
+14706820
 
 ASSIGNMENT: COMPLETE count_words, fit_zipf, and compare_top below
 """
